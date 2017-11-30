@@ -6,7 +6,7 @@ Traditional roll the dice game, the winner is the first player who get 100 point
 
 <ul>
   <li> When you rolle 1 you lose your current score, and transfer the move to another player</li>
-  <li> When you rolle 6 in a row, a lose your score</li>
+  <li> When you rolle 6 in a row, you lose your score</li>
   <li> You can change final score, default final score is 100 points</li>
   <li> If you push hold button you will save your current score and transfer move to another player</li>
 </ul>
