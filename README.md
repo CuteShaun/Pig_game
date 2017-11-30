@@ -24,7 +24,7 @@ Traditional roll the dice game, the winner is the first player who get 100 point
 
 
 
-![Start-preview](https://github.com/CuteShaun/Pig_game/raw/master/Preview-winner.png)
+![Winner-preview](https://github.com/CuteShaun/Pig_game/raw/master/Preview-winner.png)
 
 
 
