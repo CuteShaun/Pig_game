@@ -16,14 +16,14 @@ Traditional roll the dice game, the winner is the first player who get 100 point
 </ul>
   
   
-<h2>Start preview</h2><br>
+<h2>Start preview</h2>
 
 
 
 ![Start-preview](https://github.com/CuteShaun/Pig_game/raw/master/Preview-start.png)
 
 
-<h2>Winner preview</h2><br>
+<h2>Winner preview</h2>
 
 
 
