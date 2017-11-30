@@ -18,8 +18,7 @@ Traditional roll the dice game, the winner is the first player who get 100 point
   
   
 
-
-<em>I create this game with the help of Jonas Shmedtmann.</em>
+![Start-preview](https://github.com/CuteShaun/Pig_game/raw/master/Preview-start.png)
 
 
 
