@@ -2,7 +2,8 @@
 Traditional roll the dice game, the winner is the first player who get 100 points and after that push hold button. You can change the winner points. You both start with zero points, if player roll 1 he loses current score and transfer the move to another player.
 
 
-<h1>Main rules:</h1>
+<h2>Main rules:</h2>
+
 
 <ul>
   <li> When you rolle 1 you lose your current score, and transfer the move to another player</li>
@@ -14,7 +15,20 @@ Traditional roll the dice game, the winner is the first player who get 100 point
   
 <h2>Start preview</2>
 
+
+
 ![Start-preview](https://github.com/CuteShaun/Pig_game/raw/master/Preview-start.png)
+
+
+<h2>Winner preview</2>
+
+
+
+![Start-preview](https://github.com/CuteShaun/Pig_game/raw/master/Preview-winner.png)
+
+
+
+
 
 
 
