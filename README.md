@@ -1,4 +1,7 @@
-# Pig_game
+# Pig_game 
+
+On gh pages: https://cuteshaun.github.io/Pig_game/
+
 Traditional roll the dice game, the winner is the first player who get 100 points and after that push hold button. You can change the winner points. You both start with zero points, if player roll 1 he loses current score and transfer the move to another player.
 
 
