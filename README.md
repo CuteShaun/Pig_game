@@ -1,8 +1,8 @@
 # Pig_game
-Traditional roll the dice game with 2 new features
+Traditional roll the dice game, the winner is the first player who get 100 points and after that push hold button. You can change the winner points. You both start with zero points, if player roll 1 he loses current score and transfer the move to another player.
 
 
-<strong>Main rules</strong>
+<strong>Main rules:</strong>
 
 <ul>
   <li> When you rolle 1 you lose your current score, and transfer the move to another player</li>
@@ -17,7 +17,13 @@ Traditional roll the dice game with 2 new features
 
 
 <em>I create this game with the help of Jonas Shmedtmann.</em>
-  
+
+
+
+
+
+
+  
   
  
  
