@@ -12,6 +12,9 @@ Traditional roll the dice game, the winner is the first player who get 100 point
 </ul>
   
   
+<strong>Start preview</strong>
+<img src="Start-preview.png"></img>
+  
   
   
 
